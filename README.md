@@ -8,6 +8,7 @@ This project provides a "Contact Us" form that uses Telegram for message deliver
 - 📝 **Simple Form Interface**: A clean and intuitive contact form for easy user interactions.
 - 🤖 **Telegram Integration**: Messages are sent instantly to your Telegram account via a bot, ensuring fast and secure communication.
 - 🔒 **Security**: Protects user data and prevents spam through bot verification.
+- ⚠️ **Sweet alert And AJAX**
 
 ## 🚀 Get Started
 
